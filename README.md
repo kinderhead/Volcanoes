@@ -1,11 +1,10 @@
 # Volcanoes Project
 
-A simple simulation of the main types of volcanoes.
+A simple simulation of a volcanoes.
 
 ## Features
 
 * Dynamic eruption that interacts with various scenery like trees and houses
-* Stratovolcano, shield volcano, and cinder cone if I have time
+* Cinder cone because their cool
 * Simulated pyroclastic and lava flows
-    * Possibly mud slides too
 * Information about the volcano and the damage it can cause
