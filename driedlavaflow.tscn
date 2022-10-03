@@ -1,0 +1,10 @@
+[gd_scene load_steps=3 format=2]
+
+[sub_resource type="SpatialMaterial" id=1]
+albedo_color = Color( 0.317647, 0.317647, 0.317647, 1 )
+
+[sub_resource type="CylinderMesh" id=2]
+material = SubResource( 1 )
+
+[node name="Dried" type="MeshInstance"]
+mesh = SubResource( 2 )
