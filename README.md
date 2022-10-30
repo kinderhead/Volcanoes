@@ -17,8 +17,8 @@ I used this source as information on the model and eruption simulation. It was a
 
 Britannica, The Editors of Encyclopaedia. "Stratovolcanoes". Encyclopedia Britannica, 11 Feb. 2022, https://www.britannica.com/science/volcano/Stratovolcanoes.
 
-This source was used as information for stratovolcanoes.
+This source was used as information for stratovolcanoes. It was also used as a general source on volcanoes.
 
 “Shield Volcanoes.” Shield Volcanoes (U.S. National Park Service), National Park Service, 30 Sept. 2022, https://www.nps.gov/articles/000/shield-volcanoes.htm.
 
-This source was used as information for shield volcanoes.
+This source was used as information for shield volcanoes. I also got some inspiration for the cindercone model from an image in the article.
